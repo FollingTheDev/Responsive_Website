@@ -1,2 +1,6 @@
 # Responsive_Website
-testing
+
+
+Web site focado na responsividade para diversos aparelhos. 
+
+link: https://responsivecheck-website.netlify.app
